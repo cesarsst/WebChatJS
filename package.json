@@ -1,0 +1,19 @@
+{
+  "name": "projetopratico1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Stenico",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "socket.io": "^2.2.0"
+  }
+}
